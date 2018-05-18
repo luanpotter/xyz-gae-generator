@@ -7,7 +7,7 @@ Are you looking for [xyz-generator](https://github.com/luanpotter/xyz-generator)
 For interactive mode, just run:
 
 ```java
-    mvn archetype:generate -DarchetypeGroupId=xyz.luan.generator -DarchetypeArtifactId=xyz-gae-generator -DarchetypeVersion=0.2.0
+    mvn archetype:generate -DarchetypeGroupId=xyz.luan.generator -DarchetypeArtifactId=xyz-gae-generator -DarchetypeVersion=0.3.0
 ```
 
 And fill the information.
@@ -15,7 +15,7 @@ And fill the information.
 If you want batch mode, use this instead, but fill in the gaps:
 
 ```java
-    mvn archetype:generate -DarchetypeGroupId=xyz.luan.generator -DarchetypeArtifactId=xyz-gae-generator -DarchetypeVersion=0.2.0 -DgroupId=<your.group.id> -DartifactId=<your-atifact-id> -Dversion=<your.version> -DinteractiveMode=false
+    mvn archetype:generate -DarchetypeGroupId=xyz.luan.generator -DarchetypeArtifactId=xyz-gae-generator -DarchetypeVersion=0.3.0 -DgroupId=<your.group.id> -DartifactId=<your-atifact-id> -Dversion=<your.version> -DinteractiveMode=false
 ```
 
 ## What does it do?
