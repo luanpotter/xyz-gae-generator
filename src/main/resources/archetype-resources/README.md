@@ -1,5 +1,5 @@
-# ${artifactId}
-
+#[[#]]# ${artifactId}
+#[[
 This was created using [xyz gae generator](https://github.com/luanpotter/xyz-gae-generator).
 
 Welcome to your newly created project! Edit this readme to add useful information.
@@ -47,3 +47,4 @@ As you add / modify the source code (`src/main/java/...`) it's very useful to ad
 * [Junit4](http://junit.org/junit4/)
 * [Mockito](http://mockito.org/)
 * [Truth](http://google.github.io/truth/)
+]]#
