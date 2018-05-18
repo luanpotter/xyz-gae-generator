@@ -1,6 +1,6 @@
 # xyz-gae-generator
 
-A maven generator for quickly bootstraping a GAE project.
+A maven generator for quickly bootstraping a GAE project using the [Spark](http://sparkjava.com) framework.
 
 Are you looking for [xyz-generator](https://github.com/luanpotter/xyz-generator)? If you'd like to create a simple Java project, check it out.
 
@@ -20,4 +20,6 @@ If you want batch mode, use this instead, but fill in the gaps:
 
 ## What does it do?
 
-It creates a base project for Google App Engine (GAE) standard using Java 8 and Maven; it follows [this](https://cloud.google.com/appengine/docs/standard/java/quickstart) guide but does the hard work for you. Complete with tests and an example page and API.
+It creates a base project for Google App Engine (GAE) standard using Java 8 and Maven; it follows [this](https://cloud.google.com/appengine/docs/standard/java/quickstart) guide but does the hard work for you.
+
+It also adds Spark and a sample api route, sample static files, sample integration test.

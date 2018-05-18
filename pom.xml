@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>xyz.luan.generator</groupId>
 	<artifactId>xyz-gae-generator</artifactId>
-	<version>0.2.0</version>
+	<version>0.3.0</version>
 	<name>xyz-gae-generator</name>
 
 	<parent>

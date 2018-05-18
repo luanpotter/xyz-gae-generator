@@ -3,3 +3,8 @@ build/
 out/
 *.iml
 .idea/
+.classpath
+.factorypath
+.project
+.settings/
+.vscode/
